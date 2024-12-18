@@ -3,10 +3,6 @@
 //  Tema10Example1
 //
 
-//Para hacer el diseño y segue en modal revisar este video de muestra:
-//https://www.udemy.com/course/aprende-swift-4-para-ios-11-y-lo-mejor-en-bases-de-datos/learn/lecture/8302047#overview
-
-
 import UIKit
 
 //clase de la celda
